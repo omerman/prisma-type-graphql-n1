@@ -1,0 +1,13 @@
+export { AffectedRowsOutput } from "./AffectedRowsOutput";
+export { AggregateComment } from "./AggregateComment";
+export { AggregatePost } from "./AggregatePost";
+export { CommentAvgAggregate } from "./CommentAvgAggregate";
+export { CommentCountAggregate } from "./CommentCountAggregate";
+export { CommentMaxAggregate } from "./CommentMaxAggregate";
+export { CommentMinAggregate } from "./CommentMinAggregate";
+export { CommentSumAggregate } from "./CommentSumAggregate";
+export { PostAvgAggregate } from "./PostAvgAggregate";
+export { PostCountAggregate } from "./PostCountAggregate";
+export { PostMaxAggregate } from "./PostMaxAggregate";
+export { PostMinAggregate } from "./PostMinAggregate";
+export { PostSumAggregate } from "./PostSumAggregate";
